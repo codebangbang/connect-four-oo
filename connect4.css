@@ -1,8 +1,5 @@
 /* game board table */
 
-body {
-  justify-content:right
-}
 
 #board td {
   width: 50px;
